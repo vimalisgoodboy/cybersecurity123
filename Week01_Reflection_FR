@@ -1,0 +1,88 @@
+# Week 01 Reflection – FinCart
+
+
+
+1. **Difference between VA and Penetration Testing**
+
+
+
+**VA : Vulnerability Assessment is the process of identifying and documenting security weaknesses in systems, applications, or networks. It highlights existing vulnerabilities and their severity but does not involve exploiting them.**
+
+**PT: Penetration Testing goes a step further by safely exploiting selected vulnerabilities to verify whether an attacker can actually gain unauthorized access or cause real-world impact such as account takeover or financial loss.**
+
+
+
+
+
+**2. When is a Security Audit Preferred?**
+
+
+
+**A Security Audit is useful when an organization wants to confirm it follows its internal policies, industry standards, or legal requirements. It mainly looks at documentation, controls, and procedures instead of trying to break into the system.**
+
+
+
+
+
+**3. Best Testing Type for FinCart**
+
+
+
+**Gray-box testing is probably the best way to go for FinCart. Testers get some info about how things work on the inside, like basic stuff or what users can do. This makes the testing feel real, but it doesn't cost as much or have as many risks as going all-in with white-box testing.
+**
+
+
+
+
+
+**4. Cost vs Comprehensiveness Trade-off**
+
+
+
+**When testers get more access and details about a system, testing gets way better and more accurate. But, it also takes longer, requires more work, and ends up costing more cash.
+**
+
+
+
+
+
+**5. Testing Orientation Choice**
+
+
+
+**We're focusing our testing on the biggest dangers, like someone hacking accounts or stealing funds. This way, we're checking what matters most to the business instead of wasting time testing everything equally.
+**
+
+
+
+
+
+**6. Five Common Areas Mapped to FinCart**
+
+
+
+**FinCart's testing covers the web app, APIs, network security, user access, and how the whole thing works.
+** 
+
+
+
+
+
+**7. Potential Unintended DoS Risks**
+
+
+
+**Repeated login tries or lots of scanning while testing can accidentally mess things up. Think locked accounts, slower systems, or turning on fraud alerts.
+**
+
+
+
+
+
+**8. Top 3 Deliverables After Week 01**
+
+
+
+**Okay, so after the first week, we'll have the engagement brief, the final testing scope, and the actual pen testing plan ready to go. These docs lay out exactly what we're testing and make sure we do it safely.
+**
+
