@@ -1,38 +1,72 @@
-# Test Type Justification – FinCart (Week 01)
+# Test Type Justification – FinCart (Week-01)
 
-## Testing Overview
 
-**Testing Approach:** Gray-Box Penetration Testing  
-**Orientation:** Goal-Oriented Testing  
-**Delivery Model:** Conventional Penetration Testing  
+
+
+
+
+
+Testing Approach: Gray-Box Penetration Testing
+
+
+
+Orientation: Goal-Oriented Testing
+
+
+
+Delivery Model: Conventional Penetration Testing
+
+
+
+
+
+## 
 
 ## Mapping Decisions to Course Concepts
 
-### Gray-Box vs Black-Box and White-Box Testing
-- Achieves a practical balance between cost and completeness  
-- Reduces discovery time  
-- Maintains a realistic attacker’s perspective with limited internal knowledge  
 
-### Goal-Oriented Testing
-- Focuses on business goals  
-- Targets attack scenarios that lead to account takeovers  
-- Targets unauthorized money transfers  
-- Prioritizes impact over general vulnerability testing  
 
-### Conventional Penetration Testing Model
-- Ensures a clear scope  
-- Sets specific rules of engagement  
-- Allows controlled execution of testing activities  
-- Reduces operational and business risk  
+
+
+**Gray-Box vs Black-Box and White-Box Testing:**
+
+
+
+Gray-box testing offers a practical middle ground. Limited system knowledge helps reduce time spent on basic discovery while still allowing the tester to think and act like a real attacker. This makes testing efficient, realistic, and cost-effective.
+
+
+
+**Goal-Oriented Testing:**
+
+
+
+The testing is aligned with real business risks. Instead of checking every possible vulnerability, efforts are focused on high-impact scenarios such as account takeover and unauthorized fund transfers that could directly affect users and the organization.
+
+
+
+**Conventional Penetration Testing Model:**
+
+
+
+Provides an optimal balance between cost and comprehensiveness by ensuring a well-defined scope and rules of engagement, which allows controlled execution of testing activities and results in a substantial reduction in operational and business risk.
+
+
+
+
 
 ## Cost vs ROI
-- Gray-box testing offers a higher return on investment  
-- Focuses on high-impact risks  
-- Lowers effort and cost compared to full white-box testing  
+
+
+
+Gray-box testing provides a better return on investment by focusing on significant risks. It also lowers effort and cost when compared to complete white-box testing.
+
+
+
+
 
 ## Risk Awareness
-- Testing follows safe principles outlined in Week 01  
-- Denial-of-Service (DoS) attacks are not included  
-- Testing occurs only during approved non-business hours  
-- Prevents service degradation and customer impact  
-- Rules of engagement and operational limits ensure vulnerability discovery without adding business risk  
+
+
+
+Testing follows safe principles identified in Week 01. All types of denial-of-service (DoS) attacks are excluded. Testing takes place during approved non-business hours to prevent service issues or customer impact. Rules of engagement and operational limits help ensure that security vulnerabilities are found without increasing business risk.
+
